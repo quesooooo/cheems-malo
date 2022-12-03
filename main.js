@@ -41,7 +41,7 @@ function countClick() {
         alert("Chrome dejo de funcionar");
         setTimeout(function(){
             window.close();
-        },2500)
+        },1750)
     }
     
 
