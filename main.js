@@ -37,6 +37,7 @@ function countClick() {
         const bigger2 = document.querySelector("img")
         bigger2.classList.add("big2")
         bigger2.src = "./assets/cheems4.png"
+        alert("Chrome dejó de funcionar")
         setTimeout(function(){
             window.close();
         },2500)
